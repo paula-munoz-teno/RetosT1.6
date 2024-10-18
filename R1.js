@@ -1,5 +1,11 @@
 
 
+function suma (x,y,Z){
+    let resultado = x+y+Z;
+    console.log(resultado);    
+    return resultado;
+ 
+ }
  
  function resta(x,y){
     let resultado = x-y;
