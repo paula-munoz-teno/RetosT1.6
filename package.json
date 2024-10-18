@@ -1,0 +1,11 @@
+{
+  "name": "retost1.6",
+  "version": "1.0.0",
+  "description": "R1 Retos T6",
+  "main": "R1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
