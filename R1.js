@@ -1,7 +1,7 @@
 
 
-function suma (x,y){
-    let resultado = x+y;
+function suma (x,y,Z){
+    let resultado = x+y+Z;
     console.log(resultado);    
     return resultado;
  
